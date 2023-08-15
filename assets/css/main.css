@@ -1660,3 +1660,23 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+#intro {
+			display: flex;
+			align-items: center;
+			gap: 20px;
+		  }
+		  
+		  .image {
+			flex: 0 0 auto;
+		  }
+		  
+		  .text {
+			flex: 1 1 auto;
+		  }
+		  
+		  .text p {
+			margin: 0;
+		  }
+
+		
+		  
